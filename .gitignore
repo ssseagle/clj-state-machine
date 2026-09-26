@@ -1,0 +1,7 @@
+.cpcache/
+.nrepl-port
+.shadow-cljs/
+target/
+*.log
+.DS_Store
+*.swp
